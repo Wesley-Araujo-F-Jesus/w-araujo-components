@@ -1,2 +1,2 @@
-# w-araujo-components
-Common components typed by me
+# w-araujo-components-simple-header
+A basic, simple and responsive header created by me
