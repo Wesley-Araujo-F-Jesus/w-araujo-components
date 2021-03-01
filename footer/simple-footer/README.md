@@ -1,2 +1,2 @@
-# w-araujo-components
-Common components typed by me
+# w-araujo-components-simple-footer
+Simple footer created by me
